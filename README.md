@@ -127,3 +127,7 @@ http://www.asdar-book.org/
 
 The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution
 https://en.wikipedia.org/wiki/The_Innovators:_How_a_Group_of_Inventors,_Hackers,_Geniuses,_and_Geeks_Created_the_Digital_Revolution
+
+Linear Algebra: would recommend either Lay or Strang 
+http://www.amazon.com/Linear-Algebra-Its-Applications-Edition/dp/0030105676
+http://www.amazon.com/Linear-Algebra-Its-Applications-Edition/dp/0321385179
