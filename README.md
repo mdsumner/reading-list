@@ -125,4 +125,5 @@ http://www.sponpress.com/books/details/9781482210200/
 Applied Spatial Data Analysis with R
 http://www.asdar-book.org/
 
-
+The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution
+https://en.wikipedia.org/wiki/The_Innovators:_How_a_Group_of_Inventors,_Hackers,_Geniuses,_and_Geeks_Created_the_Digital_Revolution
