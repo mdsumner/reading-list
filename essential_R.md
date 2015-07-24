@@ -4,13 +4,15 @@ https://www.r-project.org
 
 https://cran.r-project.org/doc/manuals/r-release/R-intro.html
 
+http://www.burns-stat.com/documents/books/the-r-inferno/
+
 https://www.rstudio.com/resources/training/online-learning/
 
 http://tryr.codeschool.com/
 
-http://r-pkgs.had.co.nz/
-
 https://www.coursera.org/course/rprog
+
+http://r-pkgs.had.co.nz/
 
 http://adv-r.had.co.nz/
 
