@@ -1,4 +1,4 @@
-great projection resources: 
+# Great projection resources: 
 
 http://mjfoster83.github.io/projections/index.html#/
 
@@ -15,7 +15,6 @@ http://www.radicalcartography.net/?projectionref
 http://bost.ocks.org/mike/example/
 
 https://xkcd.com/977/
-
 
 http://pubs.usgs.gov/pp/1395/report.pdf
 
