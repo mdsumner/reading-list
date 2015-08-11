@@ -1,0 +1,7 @@
+Lecture Notes on Delaunay Mesh Generation 1999
+
+http://www.cis.upenn.edu/~cis610/shewchuk1999.pdf
+
+2012
+
+http://www.cs.berkeley.edu/~jrs/meshpapers/delnotes.pdf
