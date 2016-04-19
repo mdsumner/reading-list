@@ -1,5 +1,7 @@
 # Great projection resources: 
 
+http://www.progonos.com/furuti/MapProj/CartIndex/cartIndex.html
+
 http://mjfoster83.github.io/projections/index.html#/
 
 http://egsc.usgs.gov/isb//pubs/MapProjections/projections.html  
@@ -21,6 +23,13 @@ http://pubs.usgs.gov/pp/1395/report.pdf
 http://spatialreference.org/
 
 https://www.facebook.com/photo.php?fbid=881766471885798
+
+UTM rants: 
+
+http://www.georeference.org/doc/universal_transverse_mercator_utm_.htm
+
+http://www.georeference.org/doc/projections_and_legacy_formats.htm
+
 
 
 
