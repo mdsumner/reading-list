@@ -2,6 +2,8 @@
 
 http://www.progonos.com/furuti/MapProj/CartIndex/cartIndex.html
 
+https://github.com/OSGeo/proj.4/wiki
+
 http://mjfoster83.github.io/projections/index.html#/
 
 http://egsc.usgs.gov/isb//pubs/MapProjections/projections.html  
