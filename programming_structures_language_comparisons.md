@@ -27,3 +27,5 @@ http://www.redblobgames.com/grids/hexagons/
 http://deeplearning4j.org/eigenvector
 
 http://www.joewillage.com/blog/2016/4/10/achieving-accuracy-in-mapping-coordinates-to-street-blocks
+
+http://qntm.org/files/re/re.html
