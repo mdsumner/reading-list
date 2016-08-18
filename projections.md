@@ -1,5 +1,7 @@
 # Great projection resources: 
 
+https://source.opennews.org/en-US/learning/choosing-right-map-projection/
+
 http://www.progonos.com/furuti/MapProj/CartIndex/cartIndex.html
 
 https://github.com/OSGeo/proj.4/wiki
